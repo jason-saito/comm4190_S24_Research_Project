@@ -1,6 +1,6 @@
 # Welcome to my research project! 
 
-My name is Jason and I am a current student in COMM 4190 (Talking With AI: Computational And Communication Approaches).
+My name is Jason Saito and I am a current student in COMM 4190 (Talking With AI: Computational And Communication Approaches).
 
 Through this project, I will examine sports analytics in a communicative context and explore whether and how LLMs might be used to assist sports scouting and game analysts. 
 
