@@ -8,11 +8,15 @@ Through this repository, you will be able to learn more about the intersections 
 # Navigation
 Feel free to navigate the notebook:
 
-[Introduction](introduction.ipynb)
+[1) Introduction](introduction.ipynb)
 ##### Description: General overview of sports analytics as a communicative context, skills used in sports analytics, and how LLMs can be integrated to assist sports strategy and game analysts. 
 
-[Exploring LLMs and Sports Analytics](Exploring_LLMs.ipynb)
+[2) Exploring LLMs and Sports Analytics](Exploring_LLMs.ipynb)
 ##### Description: Experimenting with Gemini Pro 1.5 to conduct sports analytics tasks such as player analysis, video analysis, and scouting reports.
 
-[Conclusion](Conclusion.ipynb)
+[3) Conclusion](Conclusion.ipynb)
 ##### Description: Concluding thoughts, exploring the future implications and current reality of LLMs and sports analytics.
+
+The "Data" folder of the repository contains data that I prompted Gemini 1.5 Pro with. This data is referenced through out the "Exploring_LLMs.ipynb" notebook.
+
+The "Files" folder of the repository contains a scouting report that was referenced in the "Exploring_LLMs.ipynb" notebook.
