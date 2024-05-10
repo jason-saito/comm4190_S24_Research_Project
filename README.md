@@ -9,3 +9,5 @@ Through this repository, you will be able to learn more about the intersections 
 Feel free to navigate the notebook:
 
 [Introduction](introduction.ipynb)
+[Exploring LLMs and Sports Analytics](Exploring_LLMs.ipynb)
+[Conclusion](Conclusion.ipynb)
