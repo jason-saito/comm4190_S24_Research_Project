@@ -4,7 +4,6 @@ My name is Jason and I am a current student in COMM 4190 (Talking With AI: Compu
 
 Through this project, I examined sports analytics as a communicative context and explored whether and how LLMs might be used to assist sports scouting and game analysts. 
 
-
 # Navigation
 Feel free to navigate the notebook:
 
