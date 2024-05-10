@@ -8,7 +8,7 @@ Through this repository, you will be able to learn more about the intersections 
 # Navigation
 Feel free to navigate the notebook:
 
-[Introduction](Introduction.ipynb)
+[Introduction](introduction.ipynb)
 ##### Description: General overview of sports analytics as a communicative context, skills used in sports analytics, and how LLMs can be integrated to assist sports strategy and game analysts. 
 
 [Exploring LLMs and Sports Analytics](Exploring_LLMs.ipynb)
