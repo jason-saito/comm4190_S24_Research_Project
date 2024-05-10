@@ -8,7 +8,7 @@ Through this repository, you will be able to learn more about the intersections 
 # Navigation
 Feel free to navigate the notebook:
 
-[Introduction](introduction.ipynb)
+[Introduction](Introduction.ipynb)
 
 [Exploring LLMs and Sports Analytics](Exploring_LLMs.ipynb)
 
