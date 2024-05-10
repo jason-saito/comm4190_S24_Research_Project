@@ -9,7 +9,10 @@ Through this repository, you will be able to learn more about the intersections 
 Feel free to navigate the notebook:
 
 [Introduction](Introduction.ipynb)
+##### Description: General overview of sports analytics as a communicative context, skills used in sports analytics, and how LLMs can be integrated to assist sports strategy and game analysts. 
 
 [Exploring LLMs and Sports Analytics](Exploring_LLMs.ipynb)
+##### Description: Experimenting with Gemini Pro 1.5 to conduct sports analytics tasks such as player analysis, video analysis, and scouting reports.
 
 [Conclusion](Conclusion.ipynb)
+##### Description: Concluding thoughts, exploring the future implications and current reality of LLMs and sports analytics.
