@@ -1,4 +1,4 @@
-# Welcome to my research project! 
+# Welcome! 
 
 My name is Jason Saito and I am a current student in COMM 4190 (Talking With AI: Computational And Communication Approaches).
 
@@ -19,3 +19,6 @@ Feel free to navigate the notebook:
 The "Data" folder of the repository contains data that I prompted Gemini 1.5 Pro with. This data is referenced through out the "Exploring_LLMs.ipynb" notebook.
 
 The "Files" folder of the repository contains a scouting report that was referenced in the "Exploring_LLMs.ipynb" notebook.
+
+# Acknowledgements
+I would like to thank my professor, Matthew Brook O'Donnell, for his help through out the semester and supporting me on my LLM exploration journey. I would also like to thank Zach Drapkin of the Philadelphia Eagles, for helping me gain a better understanding of the world of sports analytics!
